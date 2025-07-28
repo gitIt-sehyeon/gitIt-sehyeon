@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,python,c++,django,react,docker,git,linux,aws,spring)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,django,react,docker,git,linux,aws,spring)
 
 ---
 
@@ -22,6 +22,7 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitIt-sehyeon&layout=compact&theme=radical)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=gitIt-sehyeon&show_icons=true&theme=radical)
 
 ---
