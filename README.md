@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Se-hyeon Jung (정세현)
 
+🎓 3rd-year Computer Engineering student at Myongji University  
+🔐 Interested in cybersecurity  
+📦 Currently building: OpenSSL Security Lab, Project Collaboration Platform  
+📬 Reach me: [tpgusdla5789@gmail.com.com](mailto:tpgusdla5789@gmail.com)
 
-**gitIt-sehyeon/gitIt-sehyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![My Skills](https://skillicons.dev/icons?i=java,python,c++,django,react,docker,git,linux,aws,spring)
+
+---
+
+## 🛠️ Projects
+
+- 🔐 [OpenSSL Security Practice](https://github.com/gitIt-sehyeon/OpenSSL): CLI-based cryptographic toolkit using OpenSSL
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitIt-sehyeon&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=gitIt-sehyeon&show_icons=true&theme=radical)
+
+---
+
+> “Keep shipping, keep learning.”
 
