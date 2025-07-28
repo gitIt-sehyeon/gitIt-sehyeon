@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Se-hyeon Jung
 
-🎓 3rd-year Computer Engineering student at Myongji University  
+- 🎓 3rd-year Computer Engineering student at Myongji University  
 
-🔐 Interested in cybersecurity  
+- 🔐 Interested in cybersecurity  
 
-📦 Currently building: OpenSSL Security Lab, Project Collaboration Platform, Spring
+- 📦 Currently building: OpenSSL Security Lab, Project Collaboration Platform, Spring
 
-📬 Reach me: [tpgusdla5789@gmail.com](mailto:tpgusdla5789@gmail.com)
+- 📬 Reach me: [tpgusdla5789@gmail.com](mailto:tpgusdla5789@gmail.com)
 
 ---
 
