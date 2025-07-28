@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,python,c,django,react,docker,git,linux,aws,spring)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,django,react,docker,kubernetes,git,linux,aws,spring)
 
 ---
 
