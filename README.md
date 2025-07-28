@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Se-hyeon Jung (정세현)
+# 👋 Hi, I'm Se-hyeon Jung
 
 🎓 3rd-year Computer Engineering student at Myongji University  
 
