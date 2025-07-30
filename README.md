@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Se-hyeon Jung
 
-- 🎓 3rd-year Computer Engineering student at Myongji University  
 
-- 🔐 Interested in cybersecurity  
-
-- 📦 Currently building: OpenSSL Security Lab, Project Collaboration Platform, Spring
-
-- 📬 Reach me: [tpgusdla5789@gmail.com](mailto:tpgusdla5789@gmail.com)
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gitIt-sehyeon&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gitIt-sehyeon?pet-id=738520034388532429"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ---
 
 ## 🔧 Tech Stack
