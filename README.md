@@ -19,7 +19,7 @@
 
 ## 🛠️ Projects
 
-- 🔐 [OpenSSL Security Practice](https://github.com/gitIt-sehyeon/OpenSSL): CLI-based cryptographic toolkit using OpenSSL
+-  [OpenSSL Security Practice](https://github.com/gitIt-sehyeon/OpenSSL): CLI-based cryptographic toolkit using OpenSSL
 
 ---
 
