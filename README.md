@@ -19,7 +19,7 @@
 
 ## 🛠️ Projects
 
--  [OpenSSL Security Practice](https://github.com/gitIt-sehyeon/OpenSSL): CLI-based cryptographic toolkit using OpenSSL
+-  [Us-Fit](https://github.com/Us-Fit/Us-Fit-BE): Us-Fit is a platform that connects people through sports by providing location-based facility information
 
 ---
 
