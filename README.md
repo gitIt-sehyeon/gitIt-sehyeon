@@ -27,8 +27,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitIt-sehyeon&layout=compact&theme=radical)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gitIt-sehyeon&show_icons=true&theme=radical)
-
 ---
 
 > “Keep shipping, keep learning.”
