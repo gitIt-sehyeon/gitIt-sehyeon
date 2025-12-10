@@ -1,6 +1,12 @@
 # Se-hyeon Jung
 
-[![gitanimals](https://render.gitanimals.org/lines/gitIt-sehyeon?pet-id=738520034388532429)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gitIt-sehyeon&utm_content=line)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gitIt-sehyeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gitIt-sehyeon"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 
