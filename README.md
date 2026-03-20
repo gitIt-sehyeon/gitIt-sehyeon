@@ -60,6 +60,11 @@ UsFit은 운동을 통해 사람들을 연결하는 스포츠 플랫폼으로,
 
 ---
 
+### Sofly
+#### **Travel Platform (In Progress)**
+
+---
+
 ## GitHub Stats
 
 **GitHub Stats**  
