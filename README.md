@@ -13,7 +13,7 @@
 ## Tech Stack
 
 ### Languages & Frameworks
-![React Native](https://skillicons.dev/icons?i=java,spring,py,django,ts,react)
+![React Native](https://skillicons.dev/icons?i=java,spring,py,django)
 
 ### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql,sqlite)
