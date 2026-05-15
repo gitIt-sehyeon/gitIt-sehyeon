@@ -11,7 +11,6 @@
 
 ---
 
-
 ## About Me
 
 - Currently building **UsFit** & **Sofly**
