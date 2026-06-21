@@ -117,6 +117,7 @@
 ### FolioSage
 
 > FolioSage is a web-based AI portfolio platform for creators (designers, developers, artists).
+> [![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gitIt-sehyeon/foliosage)
 
 ---
 
