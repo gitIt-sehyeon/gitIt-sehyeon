@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Se-hyeon%20Jeong&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer&descAlignY=58&descSize=22&descColor=a371f7" width="100%"/>
 
-
 <div align="center">
 
 **Backend Engineer who builds systems that scale and ships code that lasts.**
