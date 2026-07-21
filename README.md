@@ -4,7 +4,7 @@
 
 **Backend Engineer who builds systems that scale and ships code that lasts.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-gitIt--sehyeon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gitIt-sehyeon)
+[![Velog](https://img.shields.io/badge/Velog-gitit--sehyeon-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@gitit-sehyeon/)
 [![Gmail](https://img.shields.io/badge/Gmail-tpgusdla5789%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tpgusdla5789@gmail.com)
 
 </div>
