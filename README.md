@@ -95,49 +95,6 @@
 
 ---
 
-## Projects
-
-### UsFit — Sports-Based Matching & Community Platform
-
-> Sports platform connecting people through exercise.
-> `facility discovery` → `clubs` → `mercenary matching` → `reviews` → `activity tracking`
-
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Us-Fit/Us-Fit-BE)
-[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Us-Fit/Us-Fit-FE)
-
----
-
-### Sofly — Travel Platform
-
-> All-in-one travel planning platform.
-
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nagaja2world/Sofly_Back)
-
----
-
-### FolioSage
-
-> FolioSage is a web-based AI portfolio platform for creators (designers, developers, artists).
-
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gitIt-sehyeon/foliosage)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitIt-sehyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitIt-sehyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=gitIt-sehyeon&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=58a6ff&currStreakLabel=a371f7)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gitIt-sehyeon&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4)
-
-</div>
-
----
-
 <div align="center">
 
 *"Keep shipping, keep learning."*
