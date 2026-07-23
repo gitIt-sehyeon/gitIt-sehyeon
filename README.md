@@ -21,6 +21,71 @@
 
 ---
 
+## Experience
+
+<table>
+  <tr>
+    <td width="180" valign="middle" align="center">
+      <img src="https://img.shields.io/badge/NHN-1B75BB?style=for-the-badge&logo=nhn&logoColor=white" />
+      <br><br>
+      <sub><b>Jul 2026 – Present</b></sub>
+      <br>
+      <sub>· 1 mo ·</sub>
+    </td>
+    <td valign="top">
+      &nbsp;<b>Backend Development Intern</b>
+      <br>
+      &nbsp;<sub>AX (AI Transformation) Development Team · NHN · Full-time</sub>
+      <br>
+      &nbsp;<sub>📍 Pangyo, Gyeonggi-do, South Korea · On-site</sub>
+      <br><br>
+      &nbsp;&nbsp;• Building an internal system to resolve bottlenecks in the HR department's workflow.
+      <br>
+      &nbsp;&nbsp;• Owning <b>end-to-end development</b> — problem analysis → design → implementation → deployment.
+      <br>
+      &nbsp;&nbsp;• Improving operational efficiency for the HR team.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Education
+
+<table>
+  <tr>
+    <td width="180" valign="middle" align="center">
+      <img src="https://img.shields.io/badge/Myongji_Univ.-002F6C?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <sub><b>Mar 2020 – Feb 2027</b></sub>
+    </td>
+    <td valign="top">
+      &nbsp;<b>Bachelor of Engineering, Computer Science</b>
+      <br>
+      &nbsp;<sub>Myongji University</sub>
+      <br><br>
+      &nbsp;<b>Activities &amp; Societies</b>
+      <br><br>
+      &nbsp;&nbsp;&nbsp; <b>Basketball Club SWISH</b> — President
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Mar 2024 – Feb 2025</sub>
+      <br><br>
+      &nbsp;&nbsp;&nbsp; <b>Dept. of Computer Engineering Student Council</b> — Secretary-General
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Mar 2025 – Feb 2026</sub>
+      <br><br>
+      &nbsp;&nbsp;&nbsp; <b>CS SAT Study Group @ Myongji Univ.</b> — Vice President
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Mar 2025 – Feb 2026</sub>
+      <br><br>
+      &nbsp;&nbsp;&nbsp; <b>Likelion @ Myongji Univ.</b> — Backend Part Leader
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Mar 2026 – Present</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Tech Stack
 
