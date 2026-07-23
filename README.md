@@ -14,8 +14,8 @@
 
 ## About Me
 
-- Currently building **UsFit** & **Sofly**
-- Deep-diving into **cloud-native architecture** and **distributed systems**
+- Currently building **Sofly**
+- Deep-diving into **Spring boot** and **backend**
 - Passionate about writing clean, scalable backend code
 - Ask me about **Java / Spring / AWS / Docker**
 
