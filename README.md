@@ -29,7 +29,6 @@
       <br><br>
       <sub><b>Jul 2026 – Present</b></sub>
       <br>
-      <sub>· 1 mo ·</sub>
     </td>
     <td valign="top">
       &nbsp;<b>Backend Development Intern</b>
